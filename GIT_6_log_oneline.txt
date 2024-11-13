@@ -1,0 +1,6 @@
+821b391 Dodano nowy plik z opisem zmian w zadaniu GIT_5
+675116c Added log files and show output
+7745c05 Dodano README.md z informacjami o projekcie
+0b163e6 Zmiany po restore
+a2f4452 Dwa nowe pliki
+a3cd10e Pierwsze pliki
