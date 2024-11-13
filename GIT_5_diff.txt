@@ -1,0 +1,9 @@
+W zadaniu GIT_5 rozpatrywane są zmainy w plikach o identfikatorach z końcówkami 567 (nowy_plik.txt) i 5dd (drugi_plik.txt)
+
+Poczynając od najnowszych zmian, która dotyczą "drugi_plik.txt", to:
+1. nastapiło powstanie pliku drugi_plik.txt
+2. Dodano do pustego pliku tekst zaczynający się od słoawa "Lorem...."
+3. Dodano pustą linijkę
+
+Nastąpiły również zmiany w pliku wcześniej utworzonym o nazwie "nowy_plik.txt":
+1. Dodano do pustego pliku tekst "Hello world"
