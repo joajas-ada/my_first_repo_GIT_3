@@ -1,0 +1,13 @@
+*   3c87b90 Resolved conflict in README.md
+|\  
+| * 33bfed0 Modified README.md to create a conflict
+| * ffb3f03 Added files with repository details on branch test
+* | 6ec5ffb Updated README.md with branch-related text
+|/  
+* d77304c Added log files and show output
+* 821b391 Dodano nowy plik z opisem zmian w zadaniu GIT_5
+* 675116c Added log files and show output
+* 7745c05 Dodano README.md z informacjami o projekcie
+* 0b163e6 Zmiany po restore
+* a2f4452 Dwa nowe pliki
+* a3cd10e Pierwsze pliki
