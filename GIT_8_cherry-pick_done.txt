@@ -1,0 +1,21 @@
+* 88070d1 Zapisano historię repozytorium z graficznym logiem
+* f5312e9 Przywrócono zmiany ze stosu
+*   899c0a5 Merge branch 'test'
+|\  
+| * c5113c5 Zapisano różnice między rewizjami
+| * df80345 Zapisano historię repozytorium na gałęzi test
+* | 7cf76c8 Zapisano listę wpisów w stosie
+* | 84618f5 Added graphical log to GIT_7_branch.txt
+* | 3c87b90 Resolved conflict in README.md
+|\| 
+| * 33bfed0 Modified README.md to create a conflict
+| * ffb3f03 Added files with repository details on branch test
+* | 6ec5ffb Updated README.md with branch-related text
+|/  
+* d77304c Added log files and show output
+* 821b391 Dodano nowy plik z opisem zmian w zadaniu GIT_5
+* 675116c Added log files and show output
+* 7745c05 Dodano README.md z informacjami o projekcie
+* 0b163e6 Zmiany po restore
+* a2f4452 Dwa nowe pliki
+* a3cd10e Pierwsze pliki
