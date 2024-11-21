@@ -1,0 +1,36 @@
+4026b41 HEAD@{0}: commit: Zapisano historię rewizji po usunięciu ostatniego commita
+bee4481 HEAD@{1}: reset: moving to HEAD~1
+af5acb3 HEAD@{2}: commit: Zapisano historię rewizji do pliku GIT_9_log.txt
+bee4481 HEAD@{3}: commit: Zapisano log repozytorium po cherry-pick
+88070d1 HEAD@{4}: cherry-pick: Zapisano historię repozytorium z graficznym logiem
+f5312e9 HEAD@{5}: checkout: moving from test to master
+219f7c9 HEAD@{6}: commit: Zapisano historię repozytorium z graficznym logiem
+c5113c5 HEAD@{7}: checkout: moving from master to test
+f5312e9 HEAD@{8}: rebase (finish): returning to refs/heads/master
+f5312e9 HEAD@{9}: rebase (squash): Przywrócono zmiany ze stosu
+26b601d HEAD@{10}: rebase (start): checkout HEAD~2
+1181759 HEAD@{11}: commit: Zapisano stan repozytorium
+26b601d HEAD@{12}: commit: Przywrócono zmiany ze stosu
+899c0a5 HEAD@{13}: merge test: Merge made by the 'ort' strategy.
+7cf76c8 HEAD@{14}: checkout: moving from test to master
+c5113c5 HEAD@{15}: commit: Zapisano różnice między rewizjami
+df80345 HEAD@{16}: commit: Zapisano historię repozytorium na gałęzi test
+33bfed0 HEAD@{17}: checkout: moving from master to test
+7cf76c8 HEAD@{18}: commit: Zapisano listę wpisów w stosie
+84618f5 HEAD@{19}: reset: moving to HEAD
+84618f5 HEAD@{20}: commit: Added graphical log to GIT_7_branch.txt
+3c87b90 HEAD@{21}: commit (merge): Resolved conflict in README.md
+6ec5ffb HEAD@{22}: checkout: moving from test to master
+33bfed0 HEAD@{23}: commit: Modified README.md to create a conflict
+ffb3f03 HEAD@{24}: checkout: moving from master to test
+6ec5ffb HEAD@{25}: commit: Updated README.md with branch-related text
+d77304c HEAD@{26}: checkout: moving from test to master
+ffb3f03 HEAD@{27}: commit: Added files with repository details on branch test
+d77304c HEAD@{28}: checkout: moving from master to test
+d77304c HEAD@{29}: commit: Added log files and show output
+821b391 HEAD@{30}: commit: Dodano nowy plik z opisem zmian w zadaniu GIT_5
+675116c HEAD@{31}: commit: Added log files and show output
+7745c05 HEAD@{32}: commit: Dodano README.md z informacjami o projekcie
+0b163e6 HEAD@{33}: commit: Zmiany po restore
+a2f4452 HEAD@{34}: commit: Dwa nowe pliki
+a3cd10e HEAD@{35}: commit (initial): Pierwsze pliki
