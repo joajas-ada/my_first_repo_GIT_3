@@ -1,0 +1,105 @@
+commit f5312e9b7803c9f7056f549c2f87906b00f86a66
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Thu Nov 21 20:42:27 2024 +0100
+
+    Przywrócono zmiany ze stosu
+    
+    Zapisano stan repozytorium
+
+commit 899c0a50756c6a05a942975e7a4ebc3a281396ba
+Merge: 7cf76c8 c5113c5
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Thu Nov 21 20:32:07 2024 +0100
+
+    Merge branch 'test'
+
+commit c5113c5b74678021b4b4c3e3bef8541ee234f177
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Thu Nov 21 20:31:44 2024 +0100
+
+    Zapisano różnice między rewizjami
+
+commit df803456a35e730313ec6ccf7ca1523d9550bd13
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Thu Nov 21 20:31:24 2024 +0100
+
+    Zapisano historię repozytorium na gałęzi test
+
+commit 7cf76c85a6d769ca3f6cf5dbe45752efd3fd0278
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Thu Nov 21 20:30:51 2024 +0100
+
+    Zapisano listę wpisów w stosie
+
+commit 84618f5242545ee1752b288a67623089bea6b6a5
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 20 21:23:19 2024 +0100
+
+    Added graphical log to GIT_7_branch.txt
+
+commit 3c87b90445880935cd1b9f6790ac0f0397b51412
+Merge: 6ec5ffb 33bfed0
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 20 21:22:55 2024 +0100
+
+    Resolved conflict in README.md
+
+commit 33bfed0dfff56e0a51610393f86736c1ec306c52
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 20 21:18:16 2024 +0100
+
+    Modified README.md to create a conflict
+
+commit 6ec5ffbf90c3a51016760da304553cbd985668c4
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 20 21:17:13 2024 +0100
+
+    Updated README.md with branch-related text
+
+commit ffb3f03cbc0f2aac14091b9364c134e78a22cf23
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 20 21:12:42 2024 +0100
+
+    Added files with repository details on branch test
+
+commit d77304c4a93a70247a6c81a4ff6fd1163d4ed6b9
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 13 22:39:00 2024 +0100
+
+    Added log files and show output
+
+commit 821b3917eb36bd98f33df2480b6557b516225019
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 13 22:32:38 2024 +0100
+
+    Dodano nowy plik z opisem zmian w zadaniu GIT_5
+
+commit 675116c06c6dd41d0bd24ebe265d40441302d8ee
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Wed Nov 13 22:03:05 2024 +0100
+
+    Added log files and show output
+
+commit 7745c05545f5583c7aebe08317afa906aeda91ac
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Sun Nov 10 20:50:56 2024 +0100
+
+    Dodano README.md z informacjami o projekcie
+
+commit 0b163e62526f5221acd523ec1b6e8b7d33294751
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Sun Nov 10 20:49:04 2024 +0100
+
+    Zmiany po restore
+
+commit a2f4452b52ea479529861b6064de030fc801f6e1
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Sun Nov 10 20:45:33 2024 +0100
+
+    Dwa nowe pliki
+
+commit a3cd10e8ac3740d4b7703528e246febdb7fff1c2
+Author: joajas-ada <joanna.jaszczewska@gmail.com>
+Date:   Sun Nov 10 20:42:56 2024 +0100
+
+    Pierwsze pliki
