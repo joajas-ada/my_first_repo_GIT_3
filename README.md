@@ -1,5 +1,5 @@
 Nazwa przedmiotu: Bioinformatyka 
-Repozytorium: # my_first_repo_GIT_3 
+# Repozytorium: my_first_repo_GIT_3 
 Imię i Nazwisko: **Joanna Jaszczewska-Adamczak** 
 Numer słuchacza: *[pd4336]*
 Praca z gałęziami i rozwiązywanie konfliktów.
